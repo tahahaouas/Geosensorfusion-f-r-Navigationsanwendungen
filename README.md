@@ -1,4 +1,7 @@
 # 🧭 Ansätze der Sensorfusion
+<img src="AnsaetzeDerSensorfusion.png" width="500"/>
+
+
 
 **Prototyphafte Entwicklung von Navigationsalgorithmen zur Schätzung von Position und Orientierung anhand zurückgelegter Trajektorien.**
 
